@@ -5,18 +5,17 @@ A script used to create an Azure Migrate Local Admin account on a standalone non
 
 .DESCRIPTION
 
-A script used to create an Azure Migrate  Local Admin account on a standalone non-domain joined Hyper-V host.
-This  Local Admin account will also added to the following groups: Hyper-V Administrators, Remote Management Users, and Performance Monitor Users.
+A script used to create an Azure Migrate Local Admin account on a standalone non-domain joined Hyper-V host.
+This Local Admin account will also added to the following groups: Hyper-V Administrators, Remote Management Users, and Performance Monitor Users.
 
 .NOTES
 
-Filename:       Create_Azure_Backup_Recovery_Services_vault.ps1
+Filename:       Create_Azure_Migrate_Local_Admin_on_Hyper-V.ps1
 Created:        03/12/2020
-Last modified:  03/12/2020
+Last modified:  04/12/2020
 Author:         Wim Matthyssen
-PowerShell:     
-Version:        
-Action:         Change variables were needed to fit your needs. Before running the script logon with "Connect-AzAccount" and select the correct Azure Subscription
+PowerShell:     5.1
+Action:         Change variables were needed to fit your needs.
 Disclaimer:     This script is provided "As IS" with no warranties.
 
 .EXAMPLE
