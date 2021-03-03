@@ -26,7 +26,7 @@ Disclaimer:     This script is provided "As IS" with no warranties.
 
 .LINK
 
-https://tinyurl.com/td9423z
+https://tinyurl.com/2x6xxdr3
 #>
  
 ## Variables
