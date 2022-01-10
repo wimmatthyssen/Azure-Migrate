@@ -28,7 +28,7 @@ Disclaimer:     This script is provided "As Is" with no warranties.
 
 .LINK
 
-https://tinyurl.com/td9423z
+https://wmatthyssen.com/2021/03/03/powershell-azcopy-windows-64-bit-download-and-silent-installation/
 #>
 
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
