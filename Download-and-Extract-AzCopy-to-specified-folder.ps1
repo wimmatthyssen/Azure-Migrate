@@ -51,7 +51,7 @@ $writeSeperatorSpaces = " - "
 
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Check if running as Administrator, otherwise exit the script
+## Check if PowerShell is running as Administrator, otherwise exit the script
 
 $currentPrincipal = New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())
 $isAdministrator = $currentPrincipal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
@@ -70,7 +70,7 @@ Write-Host ($writeEmptyLine + "# Script started. Without any errors, it will nee
  
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Create C:\_Admin_Tools folder if not exists
+## Create the specfied "management or tools folder" folder if not exists (e.g. Wbin or AdminTools)
 
 If(!(test-path $managementToolsFolderPath))
 {
