@@ -1,12 +1,13 @@
-﻿<#
+<#
 .SYNOPSIS
 
 A script used to download and extract the latest AzCopy Windows 64-bit executable (.exe) file into a specified foler (e.g. C:\Wbin\ folder).
 
 .DESCRIPTION
 
-The latest AzCopy Windows 64-bit executable (.exe) file will be downloaded from a static download link, extracted, and made availabele into the specified folder.
-The directory location of the AzCopy executable will also be added to the system path for ease of use.
+The latest AzCopy Windows 64-bit executable (.exe) file will be downloaded from a static download link.
+The downloaded .zip file will be extracted, and made availabele into the specified folder provided by the user when running the script.
+At the end the directory location of the AzCopy executable will also be added to the system path for ease of use.
 
 .NOTES
 
