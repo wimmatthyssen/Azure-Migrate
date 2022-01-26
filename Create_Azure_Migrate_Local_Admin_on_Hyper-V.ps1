@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
 
-A script used to create an Azure Migrate Local Admin account on a standalone non-domain joined Hyper-V host
+A script used to create an Azure Migrate Local Admin account on a standalone non-domain joined Hyper-V host.
 
 .DESCRIPTION
 
