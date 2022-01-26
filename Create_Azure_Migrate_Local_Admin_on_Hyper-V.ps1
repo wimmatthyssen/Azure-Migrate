@@ -24,6 +24,7 @@ Disclaimer:     This script is provided "As IS" with no warranties.
 
 .LINK
 
+https://wmatthyssen.com/2020/12/06/azure-migrate-source-validation-of-a-standalone-non-domain-joined-hyper-v-host-fails-with-error-access-is-denied/
 #>
 
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
