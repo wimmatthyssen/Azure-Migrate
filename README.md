@@ -11,4 +11,4 @@ Currently this repository holds the following scritps:
 
 - **Download-and-Extract-AzCopy-to-specified-folder.ps1**
 
-More information about this script used to download and extract the latest AzCopy Windows 64-bit executable (.exe) file into a specified foler (e.g. C:\Wbin\ folder) can be found on my blog: https://wmatthyssen.com/2021/03/03/powershell-azcopy-windows-64-bit-download-and-silent-installation/
+  More information about this script used to download and extract the latest AzCopy Windows 64-bit executable (.exe) file into a specified foler (e.g. C:\Wbin\ folder) can be found on my blog: https://wmatthyssen.com/2021/03/03/powershell-azcopy-windows-64-bit-download-and-silent-installation/
